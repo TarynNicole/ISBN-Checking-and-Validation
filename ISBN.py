@@ -43,8 +43,8 @@ def TESTING_FOR_ISBN_10_13(isbn):
 
         #We then append the check digit to the isbn number to make it a valid ISBN-13 number
         #We also return the valid ISBN-13 numbwe
-        isbn_13 += str(check_digit)
-        return f"After converting the ISBN-10 number, the new valid ISBN-13 number is {isbn_13}"
+        isbn += str(check_digit)
+        return f"After converting the ISBN-10 number, the new valid ISBN-13 number is {isbn}"
     else:
         sum_products_isbn13=0
         #Calculate sum of products for ISBN-13. 
