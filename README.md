@@ -15,5 +15,7 @@ You can find the deployed streamlit application at: https://tarynnicole-isbn-che
 To download this repo and modify the code, you can follow the instructions at https://docs.streamlit.io/library/get-started/installation on how to setup your virtual environment for Streamlit.
 I used Anaconda Navigator, but there are a few options you may choose from.
 
+Once you set up your environment, you can run the application from your terminal by running the command `streamlit run ISBN.py`, ensuring you are in the root folder of the application
+
 
 
