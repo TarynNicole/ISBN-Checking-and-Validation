@@ -27,6 +27,7 @@ Once you set up your environment, you can run the application from your terminal
 ![image](https://github.com/TarynNicole/ISBN-Checking-and-Validation/assets/70257895/0106d0b6-e0fd-4b08-a0c7-db86e4fb61e5)
 
 ## Entering a valid ISBN-10 number
+![image](https://github.com/TarynNicole/ISBN-Checking-and-Validation/assets/70257895/b96f76ca-4750-4dc9-99fe-8c51e518b350)
 
 
 
