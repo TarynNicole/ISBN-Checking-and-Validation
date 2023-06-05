@@ -17,5 +17,17 @@ I used Anaconda Navigator, but there are a few options you may choose from.
 
 Once you set up your environment, you can run the application from your terminal by running the command `streamlit run ISBN.py`, ensuring you are in the root folder of the application
 
+# Examples of usage (Testing)
+
+## Entering a valid ISBN-13 number:
+![image](https://github.com/TarynNicole/ISBN-Checking-and-Validation/assets/70257895/41c33d19-bae6-4c35-b24d-1f2b91f3851c)
+
+
+## Entering an invalid ISBN-10 number:
+![image](https://github.com/TarynNicole/ISBN-Checking-and-Validation/assets/70257895/0106d0b6-e0fd-4b08-a0c7-db86e4fb61e5)
+
+## Entering a valid ISBN-10 number
+
+
 
 
